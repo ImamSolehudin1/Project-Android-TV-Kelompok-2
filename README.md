@@ -8,3 +8,7 @@ Project Group :
 3. Viena Dwi Putri Maulina (312110469) as UI/UX
 4. Farida Prasetyaning Rahayu (312110607) as UI/UX
 5. Afra Nesya Apriyanthi (312110614) as UI/UX
+
+### Screenshot Project
+
+![gambar](ss_project.png)
